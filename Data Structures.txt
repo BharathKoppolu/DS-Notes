@@ -1,0 +1,123 @@
+------------------------------------
+Data Structures Intro by Adrei Neagoie
+------------------------------------
+
+Data Structures + Algorithms = Programs
+
+What is a Data Structure?
+
+>>Collection of values, values haves relationships among them 
+or have functions applied to them
+>> Each one is different in what it can do or used for
+>> Each DS is specialised for it's own thing
+
+
+Ex: it is a compartment or container, 
+
+Bag, Box, file cabinet, Drawers, Fridgre, folder. 
+Each of these containers is useful/specific for it's own thing
+
+>>A unique way to organise data and retrive the data easily
+
+Blockchain
+
+store numbers, strings, etc
+
+>>Arrays and objects are a form of a DS that allows us to store information
+
+>> variables are stored in RAM. RAM loses the data once the computer turns off
+
+>>all docs, videos, audios will be on storage called (ROM SSD or HDD)
+ Persistent storage. It is slow
+ 
+>> CPU does the work inside the computer
+CPU needs access to RAM and Storage. 
+It processes the info in the RAM a lot faster
+
+
+Ex:
+Google Chrome
+when we run Google chrome. it has piece of code
+var a=1;
+inorder to ru google chrome, we run our cpu
+when a script is run (Example here: var is declared)
+ to run google chrome, it's going to hold that in RAM
+ 
+once we turn off google chrome, if we want to access google chrome again,
+ that's how the gc app is installed on Storage.
+ 
+ Processor/CPU
+ 
+RAM massive storage area (DS) shelves that are numbered
+Each shelf has 8 cells
+Allows us to run programs on computer each cell has 8 bits
+8bits> 1 byte > each cell has 1 byte of storage
+CPU is connected to a memory controller, 
+it does the reading and writing of data in the RAM
+
+Memory controller is connected individually to all of the shelves in RAM
+
+We can access any shelf with out having to climb up or down
+implying random access memory
+
+Less it has to travel, faster a program can run
+
+computers are tuned to get extra speedboost when reading memory addresses 
+that are close to each other. 0 and 1 fasterr than 0 and 1000 as they 
+are close to each other
+
+Computers have CPU cache
+tiny memory where it stores a copy of data that is very recent
+
+if our system is 8 bit (11111111) - it can store 255
+
+
+Our computer can only store so much info
+Any number above a certain threshold will be infinity
+
+Each data type has a no of bits associated with it
+and it needs to get stored in the system
+System allocates that storage and cpu reads that storage
+
+Some Datastructures in RAM are organised right next to each other or apart
+goal is to minimise the operations for the CPU to get/write the info
+
+low level
+
+Data Structures:
+
+Arrays
+Stacks
+Queues 
+Linked Lists
+
+Trees
+Tries
+Graphs
+Hash Tables
+
+Algorithms
+
+Sorting
+Dynamic Programming
+BFS+DFS(Searching)
+Recursion
+
+
+Various operations that can be performed using DS
+
+Insertion
+Deletion
+Traversal - Access each data item only once to be processed
+Searching - find the location of data item if it exists in the data collection
+Sorting - 
+
+Access - How to access the data
+
+
+
+ 
+
+
+
+

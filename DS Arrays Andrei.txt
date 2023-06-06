@@ -1,0 +1,15 @@
+-----------------------
+Arrays by Andrei
+-----------------------
+
+sometimes called lists
+organises items sequentialy in memory
+
+
+lookup O(1)
+push O(1)
+insert O(n)
+delete O(n)
+
+
+ 
